@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\task\BlazorChat\BlazorChat\Server\obj\Debug\net5.0\BlazorChat.Server.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\task\BlazorChat\BlazorChat\Server\obj\Debug\net5.0\BlazorChat.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\task\BlazorChat\BlazorChat\Server\obj\Debug\net5.0\BlazorChat.Server.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\task\BlazorChat\BlazorChat\Server\obj\Debug\net5.0\BlazorChat.Server.AssemblyInfo.cs
+C:\Users\hp\Desktop\task\BlazorChat\BlazorChat\Server\obj\Debug\net5.0\BlazorChat.Server.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\task\BlazorChat\BlazorChat\Server\obj\Debug\net5.0\BlazorChat.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\task\BlazorChat\BlazorChat\Server\obj\Debug\net5.0\BlazorChat.Server.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\task\BlazorChat\BlazorChat\Server\obj\Debug\net5.0\BlazorChat.Server.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\task\BlazorChat\BlazorChat\Server\obj\Debug\net5.0\BlazorChat.Server.sourcelink.json
